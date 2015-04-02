@@ -30,9 +30,9 @@ $(document).ready(function(){
 $(document).ready(function() {
       $(".owl-carousel").owlCarousel({
         autoPlay: 3000,
-        items : 4,
+        items : 2,
         itemsDesktop : [1199,3],
-        itemsDesktopSmall : [979,3]
+        itemsDesktopSmall : [1500,2]
       });
 
     });
