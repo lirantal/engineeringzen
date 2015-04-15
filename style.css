@@ -100,6 +100,20 @@ ul li {
 	color: #fff;
 	border-color: #0099FF;
 }
+.custom-buy-btn {
+
+		background-color: #0099FF;
+	color: #fff;
+	border-color: #0099FF;
+}
+.custom-buy-btn:hover {
+	background-color: yellow;
+	color: #000;
+	border: 1px solid yellow;
+	-webkit-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+}
 .btn:active, .btn.active {
 	outline: none;
 	-webkit-box-shadow: none;
@@ -160,11 +174,12 @@ textarea:focus {
    3. Section Header                 
 ========================================= */
 header {
-	/*background image for top section
-	background: url(images/bg.jpg) 50% 0 no-repeat fixed;
+
+	/*background image for top section*/
+	/*background: url(images/bg.jpg) 50% 0 no-repeat fixed;
 	*/
-	
 	background-color: #262320;
+
 	background-size: cover;
 }
 .top .photo-slide {
@@ -205,10 +220,12 @@ header {
 .top .content .button a i {
 	margin-right: 20px;
 }
+/*
 .top .content .button a:hover {
 	background-color: #fff;
 	color: #222;
 }
+*/
 
 
 
