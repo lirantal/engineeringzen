@@ -139,7 +139,6 @@ ul li {
 	bottom: -50px;
 }
 .social a {
-	display: block;
 	width: 40px;
 	font-size: 28px;
 	border-radius: 100%;
@@ -752,20 +751,13 @@ header {
 	font-weight: 400;
 	outline: none;
 }
-.subscribe_top .social {
+.buttons_group .social {
 	margin: auto;
-	display: table;
-	margin-bottom: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
-.subscribe_top .social ul {
-	padding:30px 0;
-}
-.subscribe_top .social li {
-	float: left;
-	list-style: none;
-	margin-right: 10px;
-}
-
 
 /* =========================================
    11. Section Subscribe                 
