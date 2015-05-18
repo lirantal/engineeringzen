@@ -718,7 +718,7 @@ header {
 .subscribe_top .subscribe-form input {
 	width: 100%;
 	margin: auto;
-	height: 60px;
+	height: 45px;
 	border-radius: 0;
 	background-color: transparent;
 }
@@ -731,7 +731,7 @@ header {
 	background-color: none;
 	border: 1px solid #ccc;
 	border-radius: 0px;
-	height: 60px;
+	height: 35px;
 	-webkit-transition: all 0.3s;
 	-o-transition: all 0.3s;
 	transition: all 0.3s;
@@ -775,7 +775,7 @@ header {
 .subscribe .subscribe-form input {
 	width: 100%;
 	margin: auto;
-	height: 60px;
+	height: 45px;
 	border-radius: 0;
 	background-color: transparent;
 }
