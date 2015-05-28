@@ -33,7 +33,7 @@ body {
     padding: 0;
 }
 h1 {
-	margin-bottom: -15px;
+	margin-bottom: 5px;
 	font-size: 60px;
 	color: #fff;
 	font-weight: 100;
@@ -212,6 +212,7 @@ header {
 	font-size: 32px;
 	font-weight: 300;
 	margin-bottom: 30px;
+	margin-top: 0px;
 }
 .top .content p {
 	font-weight: 500;
