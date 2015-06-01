@@ -271,6 +271,15 @@ header {
 	border-radius: 0;
 	clear: both;
 }
+
+.navigation .navbar-default .navbar-custom {
+	width: 100%;
+	float: none;
+	text-align: center;
+	margin: auto;
+	margin-left: 15%;
+}
+
 .navigation .navbar-default .navbar-nav>li>a {
 	color: #fff;
 	font-weight: 400;
